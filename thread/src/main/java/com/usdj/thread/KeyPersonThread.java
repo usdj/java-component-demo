@@ -15,4 +15,8 @@ public class KeyPersonThread extends Thread {
         }
         System.out.println(Thread.currentThread().getName() + "end!");
     }
+
+    public static void main(String[] args) {
+
+    }
 }
