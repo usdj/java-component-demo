@@ -161,3 +161,4 @@ timer/src/test/
 timer/target/generated-sources/
 springdata/target
 *.iml
+sqlannotation/target/test-classes/
